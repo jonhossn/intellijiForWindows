@@ -5,6 +5,7 @@ public class LearningMethod {
     // method used to perform certain action known as function
 
     // return type// non return type
+
     // wit parameter
     // witout parameter.
     // return type- data type/class type/object type
@@ -18,8 +19,8 @@ public class LearningMethod {
     }
 
     public int doSubtract(int num1, int num2) { // return type with parameter.
-        int number1 = num1;
-        int number2 = num2;
+        int number1 = num1;// chk
+        int number2 = num2;// rice
         int sub = number2 - number1;
         System.out.println("subtraction is " + sub);
         return sub;
@@ -50,7 +51,6 @@ public class LearningMethod {
         int multiplication = number1 * number2;
         System.out.println(" Multiplication is " + multiplication);
 
-
     }
 
     public void doMultiply(int number1, int number2) {// no return type- no parameter.
@@ -66,9 +66,9 @@ public class LearningMethod {
         obj.doSum();
         obj.doSubtract(10,22);
         obj.stInfo("jony","hossain");
-        obj.stInfo("tony","den","22");
+        obj.stInfo("tony","nyc",22);
         obj.doMultiply();
-       // obj.doMultiply("12","2");
+       obj.doMultiply(12,2);
 
     }
 }

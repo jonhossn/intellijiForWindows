@@ -10,11 +10,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LearnJava_WeekendAfternoon_Selenium_NY_Summer2020" />
+  </component>
   <component name="ProjectId" id="1eYfaRWB5x2HA6r9T4yGtYMZWDd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,14 +30,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Loopp/src/loopAll/NestedLoop.java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.LearningMethod">
-    <configuration name="LearningConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.LearningConstructor" />
+  <component name="RunManager" selected="Application.TestBank">
+    <configuration name="LearningException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandeling.LearningException" />
       <module name="intellijiForWindows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructor.*" />
+          <option name="PATTERN" value="exceptionHandeling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +47,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearningMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.LearningMethod" />
+    <configuration name="NestedLoopHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.NestedLoopHome" />
       <module name="intellijiForWindows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.String4" />
+      <module name="intellijiForWindows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Abstruction.Test" />
+      <module name="intellijiForWindows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.Abstruction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps.TestBank" />
+      <module name="intellijiForWindows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,8 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LearningMethod" />
-        <item itemvalue="Application.LearningConstructor" />
+        <item itemvalue="Application.TestBank" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LearningException" />
+        <item itemvalue="Application.NestedLoopHome" />
+        <item itemvalue="Application.String4" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +135,14 @@
       <workItem from="1594518962530" duration="1514000" />
       <workItem from="1594520498076" duration="134000" />
       <workItem from="1594520664521" duration="27000" />
-      <workItem from="1594520715218" duration="266000" />
+      <workItem from="1594520715218" duration="32270000" />
+      <workItem from="1594695823487" duration="3004000" />
+      <workItem from="1594757257586" duration="4567000" />
+      <workItem from="1594779129569" duration="16647000" />
+      <workItem from="1594850927757" duration="601000" />
+      <workItem from="1594864390302" duration="3041000" />
+      <workItem from="1595037518403" duration="21321000" />
+      <workItem from="1595170119988" duration="14203000" />
     </task>
     <servers />
   </component>
@@ -93,29 +150,94 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1400" height="195" key="GridCell.Tab.0.bottom" timestamp="1594518939640">
+    <state x="485" y="82" key="#Abc" timestamp="1594850058584">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1400" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594518939640" />
-    <state width="1400" height="195" key="GridCell.Tab.0.center" timestamp="1594518939639">
+    <state x="485" y="82" key="#Abc/0.0.1536.824@0.0.1536.824" timestamp="1594850058584" />
+    <state x="503" y="62" key="#NestedLoop" timestamp="1595038029269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1400" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594518939639" />
-    <state width="1400" height="195" key="GridCell.Tab.0.left" timestamp="1594518939639">
+    <state x="503" y="62" key="#NestedLoop/0.0.1536.824@0.0.1536.824" timestamp="1595038029269" />
+    <state x="920" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1595190606319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1400" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594518939639" />
-    <state width="1400" height="195" key="GridCell.Tab.0.right" timestamp="1594518939639">
+    <state x="920" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595190606319" />
+    <state x="566" y="159" key="FileChooserDialogImpl" timestamp="1595037607849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1400" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594518939639" />
-    <state x="510" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1594520716364">
+    <state x="566" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595037607849" />
+    <state width="896" height="199" key="GridCell.Tab.0.bottom" timestamp="1595114687495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="510" y="220" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594520716364" />
-    <state x="363" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594503742401">
+    <state width="896" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595114687495" />
+    <state width="896" height="199" key="GridCell.Tab.0.center" timestamp="1595114687494">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="363" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594503742401" />
+    <state width="896" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595114687494" />
+    <state width="896" height="199" key="GridCell.Tab.0.left" timestamp="1595114687494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="896" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595114687494" />
+    <state width="896" height="199" key="GridCell.Tab.0.right" timestamp="1595114687495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="896" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595114687495" />
+    <state width="1447" height="218" key="GridCell.Tab.1.bottom" timestamp="1594850890193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1447" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594850890193" />
+    <state width="1447" height="218" key="GridCell.Tab.1.center" timestamp="1594850890192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1447" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594850890192" />
+    <state width="1447" height="218" key="GridCell.Tab.1.left" timestamp="1594850890192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1447" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594850890192" />
+    <state width="1447" height="218" key="GridCell.Tab.1.right" timestamp="1594850890192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1447" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594850890192" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1594846384740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594846384740" />
+    <state x="510" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1595170123835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="220" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595170123835" />
+    <state x="24" y="34" width="665" height="764" key="dock-window-1" timestamp="1594657285318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="24" y="34" width="665" height="764" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1594657285318" />
+    <state x="418" y="65" key="new project wizard" timestamp="1594912728596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="65" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594912728596" />
+    <state x="424" y="194" key="run.anything.popup" timestamp="1594844022016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="194" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594844022016" />
+    <state x="363" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595188303126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="363" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595188303126" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/opps/encapsulation/LearnEncapsulation.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/opps/inheritance/Father.java</url>
+          <line>5</line>
+          <properties field="SportsTeam" class="opps.inheritance.Father" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
