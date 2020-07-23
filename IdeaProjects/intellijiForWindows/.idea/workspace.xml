@@ -30,16 +30,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Loopp/src/loopAll/NestedLoop.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LearnJava_WeekendAfternoon_Selenium_NY_Summer2020" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.TestBank">
-    <configuration name="LearningException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionHandeling.LearningException" />
+  <component name="RunManager" selected="Application.AbDemo">
+    <configuration name="AbDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing.AbDemo" />
       <module name="intellijiForWindows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptionHandeling.*" />
+          <option name="PATTERN" value="testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.NestedLoopHome" />
+    <configuration name="AbstractClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopsHome.Abstraction.AbstractClassTest" />
       <module name="intellijiForWindows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="oopsHome.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.String4" />
+    <configuration name="Abstraction1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopsHome.Abstraction.Abstraction1" />
       <module name="intellijiForWindows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="oopsHome.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.Abstruction.Test" />
+    <configuration name="Abstraction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopsHome.Abstraction.Abstraction2" />
       <module name="intellijiForWindows" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.Abstruction.*" />
+          <option name="PATTERN" value="oopsHome.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbDemo" />
+        <item itemvalue="Application.Abstraction2" />
+        <item itemvalue="Application.Abstraction1" />
+        <item itemvalue="Application.AbstractClassTest" />
         <item itemvalue="Application.TestBank" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LearningException" />
-        <item itemvalue="Application.NestedLoopHome" />
-        <item itemvalue="Application.String4" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,11 @@
       <workItem from="1594850927757" duration="601000" />
       <workItem from="1594864390302" duration="3041000" />
       <workItem from="1595037518403" duration="21321000" />
-      <workItem from="1595170119988" duration="14203000" />
+      <workItem from="1595170119988" duration="15339000" />
+      <workItem from="1595305098286" duration="366000" />
+      <workItem from="1595383370986" duration="7162000" />
+      <workItem from="1595472883993" duration="23000" />
+      <workItem from="1595473291106" duration="4784000" />
     </task>
     <servers />
   </component>
@@ -158,30 +162,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="62" key="#NestedLoop/0.0.1536.824@0.0.1536.824" timestamp="1595038029269" />
-    <state x="920" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1595190606319">
+    <state x="920" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1595385068632">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="920" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595190606319" />
-    <state x="566" y="159" key="FileChooserDialogImpl" timestamp="1595037607849">
+    <state x="920" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595385068632" />
+    <state x="566" y="159" key="FileChooserDialogImpl" timestamp="1595219070532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="566" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595037607849" />
-    <state width="896" height="199" key="GridCell.Tab.0.bottom" timestamp="1595114687495">
+    <state x="566" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595219070532" />
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1595478528556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595114687495" />
-    <state width="896" height="199" key="GridCell.Tab.0.center" timestamp="1595114687494">
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595478528556" />
+    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1595478528555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595114687494" />
-    <state width="896" height="199" key="GridCell.Tab.0.left" timestamp="1595114687494">
+    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595478528555" />
+    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1595478528555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595114687494" />
-    <state width="896" height="199" key="GridCell.Tab.0.right" timestamp="1595114687495">
+    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595478528555" />
+    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1595478528555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595114687495" />
+    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595478528555" />
     <state width="1447" height="218" key="GridCell.Tab.1.bottom" timestamp="1594850890193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -202,10 +206,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594846384740" />
-    <state x="510" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1595170123835">
+    <state x="510" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1595473291965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="510" y="220" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595170123835" />
+    <state x="510" y="220" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595473291965" />
     <state x="24" y="34" width="665" height="764" key="dock-window-1" timestamp="1594657285318">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
